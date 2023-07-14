@@ -1,6 +1,12 @@
 {
   "name": "dark-purple-theme",
-  "displayName": "Dark Purple Theme",
+  "displayName": "Dark Purpled Theme",
+  "publisher": "harryrardy",
+  "author": {
+    "name": "Thiago Proença Idro",
+    "email": "thiagoidro.11ti@gmail.com",
+    "url": "https://github.com/thiagoproenca/Dark-Purple-Theme"
+  },
   "description": "generico",
   "version": "0.0.1",
   "engines": {
