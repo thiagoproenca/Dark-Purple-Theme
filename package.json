@@ -1,5 +1,5 @@
 {
-  "name": "dark-purple-theme",
+  "name": "dark-purpled-theme",
   "displayName": "Dark Purpled Theme",
   "publisher": "harryrardy",
   "author": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/thiagoproenca/Dark-Purple-Theme"
   },
   "description": "generico",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Purple Theme",
+        "label": "Dark Purpled Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-purple-theme.json"
+        "path": "./themes/dark-purpled-theme.json"
       }
     ]
   }
