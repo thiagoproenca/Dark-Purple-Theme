@@ -468,7 +468,7 @@
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -729,7 +729,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1679,7 +1679,7 @@
         "keyword.control.xi"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1884,13 +1884,6 @@
       "settings": {
         "foreground": "#f92672"
       }
-    },
-    {
-      "name": "",
-      "scope": "meta.member.access",
-      "settings": {
-        "foreground": "#ff0000"
-      }
     }
   ],
   "colors": {
@@ -2014,7 +2007,6 @@
     "editorCodeLens.foreground": "#808080",
     "editorGroup.border": "#000000",
     "diffEditor.insertedTextBackground": "#61b95544",
-    "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.border": "#444444",
     "panel.background": "#000000",
     "panel.border": "#00000059",
