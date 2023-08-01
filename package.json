@@ -1,6 +1,6 @@
 {
   "name": "dark-purpled-theme",
-  "displayName": "Dark Purpled Theme v0.0.6",
+  "displayName": "Dark Purpled Theme v0.0.7",
   "publisher": "harryrardy",
   "author": {
     "name": "Thiago Proença Idro",
@@ -8,7 +8,7 @@
     "url": "https://github.com/thiagoproenca/Dark-Purple-Theme"
   },
   "description": "Dark Purpled Theme - A much more darker theme for you.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.80.0"
   },

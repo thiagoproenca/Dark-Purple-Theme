@@ -312,6 +312,14 @@
         "foreground": "#ff9030",
         "fontStyle": "bold"
       }
+    },
+    {
+      "name": "SQL keyword",
+      "scope": "keyword.other.create, keyword.other.sql, keyword.other.DML, keyword.other.LUW, keyword.other.alias",
+      "settings": {
+        "foreground": "#f92672",
+        "fontStyle": "bold"
+      }
     }
   ]
 }
