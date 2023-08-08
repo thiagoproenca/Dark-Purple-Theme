@@ -223,7 +223,7 @@
     },
     {
       "name": "Parameters",
-      "scope": "variable.parameter",
+      "scope": "variable.parameter, variable.language.arguments",
       "settings": {
         "foreground": "#fd971f",
         "fontStyle": "bold"
